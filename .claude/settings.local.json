@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip show:*)",
+      "Bash(pip install:*)",
+      "Bash(python create_template.py)",
+      "Bash(python -c \":*)",
+      "Bash(python -c \"import bot; print\\(''OK''\\)\")"
+    ]
+  }
+}
