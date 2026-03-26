@@ -1,0 +1,6 @@
+.git
+__pycache__
+*.pyc
+.claude
+test_output*.docx
+zayavka_*.docx
